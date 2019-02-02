@@ -1,7 +1,9 @@
-package com.arubianoch.databindingexample;
+package com.arubianoch.databindingexample.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.arubianoch.databindingexample.R;
 
 public class MainActivity extends AppCompatActivity {
 
